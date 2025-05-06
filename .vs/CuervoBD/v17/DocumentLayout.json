@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\GerardoTordoya\\CuervoBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3336C3A-1974-4A2B-B80B-0DCB99ECCAAA}|CuervoBD.csproj|d:\\documents\\gerardotordoya\\cuervobd\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3336C3A-1974-4A2B-B80B-0DCB99ECCAAA}|CuervoBD.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3336C3A-1974-4A2B-B80B-0DCB99ECCAAA}|CuervoBD.csproj|d:\\documents\\gerardotordoya\\cuervobd\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3336C3A-1974-4A2B-B80B-0DCB99ECCAAA}|CuervoBD.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3336C3A-1974-4A2B-B80B-0DCB99ECCAAA}|CuervoBD.csproj|d:\\documents\\gerardotordoya\\cuervobd\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3336C3A-1974-4A2B-B80B-0DCB99ECCAAA}|CuervoBD.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3336C3A-1974-4A2B-B80B-0DCB99ECCAAA}|CuervoBD.csproj|d:\\documents\\gerardotordoya\\cuervobd\\ravendbstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3336C3A-1974-4A2B-B80B-0DCB99ECCAAA}|CuervoBD.csproj|solutionrelative:ravendbstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3336C3A-1974-4A2B-B80B-0DCB99ECCAAA}|CuervoBD.csproj|d:\\documents\\gerardotordoya\\cuervobd\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3336C3A-1974-4A2B-B80B-0DCB99ECCAAA}|CuervoBD.csproj|solutionrelative:personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Documents\\GerardoTordoya\\CuervoBD\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Documents\\GerardoTordoya\\CuervoBD\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAywCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:42:30.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "D:\\Documents\\GerardoTordoya\\CuervoBD\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "PersonaRepository.cs",
+              "ToolTip": "D:\\Documents\\GerardoTordoya\\CuervoBD\\PersonaRepository.cs",
+              "RelativeToolTip": "PersonaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:29:13.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RavenDbStore.cs",
+              "DocumentMoniker": "D:\\Documents\\GerardoTordoya\\CuervoBD\\RavenDbStore.cs",
+              "RelativeDocumentMoniker": "RavenDbStore.cs",
+              "ToolTip": "D:\\Documents\\GerardoTordoya\\CuervoBD\\RavenDbStore.cs",
+              "RelativeToolTip": "RavenDbStore.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:14:05.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Documents\\GerardoTordoya\\CuervoBD\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "D:\\Documents\\GerardoTordoya\\CuervoBD\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:15:46.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\GerardoTordoya\\CuervoBD\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Documents\\GerardoTordoya\\CuervoBD\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:09:10.096Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
